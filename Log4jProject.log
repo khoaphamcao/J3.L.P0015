@@ -1,0 +1,21 @@
+ERROR   2021-03-20 20:29:19,525 [http-nio-8084-exec-7] khoapc.servlet.ConfirmServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: The statement did not return a result set.
+ERROR   2021-03-20 20:29:55,164 [http-nio-8084-exec-9] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 20:29:57,052 [http-nio-8084-exec-10] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 20:29:58,293 [http-nio-8084-exec-2] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 20:29:58,948 [http-nio-8084-exec-1] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 20:39:58,300 [http-nio-8084-exec-22] khoapc.servlet.ConfirmServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: The statement did not return a result set.
+ERROR   2021-03-20 20:40:41,095 [http-nio-8084-exec-19] khoapc.servlet.ConfirmServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: The statement did not return a result set.
+ERROR   2021-03-20 20:45:43,194 [http-nio-8084-exec-11] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:00:56,058 [http-nio-8084-exec-39] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:00:56,598 [http-nio-8084-exec-40] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:00:56,976 [http-nio-8084-exec-41] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:02:39,570 [http-nio-8084-exec-53] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:02:40,001 [http-nio-8084-exec-46] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:03:12,679 [http-nio-8084-exec-55] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:03:13,359 [http-nio-8084-exec-56] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:03:35,284 [http-nio-8084-exec-59] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:03:35,871 [http-nio-8084-exec-54] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-20 21:03:36,416 [http-nio-8084-exec-50] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-22 09:11:19,023 [http-nio-8084-exec-5] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-22 09:11:19,856 [http-nio-8084-exec-3] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
+ERROR   2021-03-22 09:11:20,852 [http-nio-8084-exec-6] khoapc.servlet.SearchServlet  - java.lang.NullPointerException
